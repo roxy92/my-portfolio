@@ -1,4 +1,5 @@
 body{
+    margin: 0%;
     font-family: 'Open Sans', sans-serif;
 }
 h1{
@@ -6,6 +7,12 @@ h1{
 }
 .protfolio-coloer{
     color:orange;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: rgb(205, 50, 122);
 }
 .half-width{
     width: 40%;
@@ -17,5 +24,23 @@ h1{
     width: 100%;
 }
 .top-banner{
+    border:  1px solid #ff0000;
     background-image: url("imag/top-banner.png");
+    background-repeat: no-repeat;
 }
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(lightsalmon,tomato);
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: 700;
+}
+.dream-area{
+    background-image: url(imag/dream-bg.png);
+        background-repeat: no-repeat;}
