@@ -53,8 +53,7 @@ section{
       border: 5px;
       height: 80%;
   }
-
-  footer p{
+  .footer p{
       text-align: center;
   }
   .LASTET{
@@ -67,24 +66,21 @@ section{
       text-align: center;
   }
   .lastet{
-      text-align: center;
-
-  }
-  .down-three{
-      margin-top: 10%;
-      width: 30%;
-      margin: 2%;
-      padding-left: 1%;     
-  }
-  .down-three{
-      box-shadow: 10px 10px 40px gray;
-      border-radius: 5px;
-      height: 80%;
-
-  }
-  .project-third{
-      text-align: center;
-      background-origin: padding-box;
-  }
-   
-  
+      text-align: center;}
+    
+    .box-area{
+        margin: 4%;
+        box-shadow: 10px 10px 20px grey;
+        height: 300px;
+        background-color: white;
+        width: 25%;
+        float: left;
+        padding-bottom: 80px;
+    }
+    .box-img{
+        width: 65%;
+    }
+    .icon{
+        padding: 140px;
+    }
+    
