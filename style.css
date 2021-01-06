@@ -53,10 +53,6 @@ section{
       border: 5px;
       height: 80%;
   }
-  .experience-area{
-      background-position: left;
-      background-size: auto;
-  }
 
   footer p{
       text-align: center;
@@ -70,3 +66,25 @@ section{
   .hello{
       text-align: center;
   }
+  .lastet{
+      text-align: center;
+
+  }
+  .down-three{
+      margin-top: 10%;
+      width: 30%;
+      margin: 2%;
+      padding-left: 1%;     
+  }
+  .down-three{
+      box-shadow: 10px 10px 40px gray;
+      border-radius: 5px;
+      height: 80%;
+
+  }
+  .project-third{
+      text-align: center;
+      background-origin: padding-box;
+  }
+   
+  
